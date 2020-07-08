@@ -1,2 +1,2 @@
-# cradle
-it's still under construction (not yet completed).
+# p5.play-boilerplate
+Boiler plate for p5.play
